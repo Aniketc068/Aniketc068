@@ -50,9 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketc068&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketc068&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
